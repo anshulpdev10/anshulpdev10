@@ -6,7 +6,7 @@
 ---
 
 <!-- About Me -->
-## `> whoami`
+## `About Me`
 
 ```
 Name     : Anshul Patil
@@ -16,16 +16,14 @@ College  : VESIT Mumbai | ECS '27 | CGPA: 8.84
 Status   : Building. Always.
 ```
 
-I don't just learn tech — I ship it.
-MindSphere has **real users** on it right now.
+I don't just learn tech, I ship it.
+MindSphere is live right now.
 AeroProtect won **Top 5 at HackAIThon VESIT**.
 BoxGuard won **Top 5 at NEXUS 2025**.
 
-Currently building **RoomSync** — my first solo project, a real-time collaborative task board. Because I wanted to know what it felt like to own the entire product lifecycle alone.
-
 ---
 
-## `> projects --pinned`
+## `Projects`
 
 | Project | What it does | Stack | Status |
 |--------|-------------|-------|--------|
@@ -49,7 +47,12 @@ Currently building **RoomSync** — my first solo project, a real-time collabora
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+
+**Languages**
+![C++ (DSA) ](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript (Frontend) ](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python (Backend) ](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Database & Cloud**
 
@@ -77,21 +80,9 @@ Currently building **RoomSync** — my first solo project, a real-time collabora
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-patil-4834b032b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshulpdev10)
+[![Old_Github])(https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anshul-patil10)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshulpatil.dev@gmail.com)
 
-</div>
-
----
-
-## `> stats`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshulpdev10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=a0a0b0&icon_color=58a6ff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulpdev10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=a0a0b0" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulpdev10&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=ffffff" />
 </div>
 
 ---
