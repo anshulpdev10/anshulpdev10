@@ -12,7 +12,7 @@
 Name     : Anshul Patil
 Role     : Full-Stack Developer
 Stack    : React · Flask · MongoDB
-College  : VESIT Mumbai | ECS '27 | CGPA: 8.84
+College  : VESIT Mumbai | ECS '27 | CGPA: 8.81
 Status   : Building. Always.
 ```
 
